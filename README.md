@@ -1,6 +1,6 @@
  # Heidi Williams-Foy
 ## TECHNICAL ACCOUNT STRATEGIST | SALES ENGINEER
-[Email](mailto:heidi.williamsfoy@gmail.com)  |  [GitHub](https://github.com/HeidiW)  |  [LinkedIn](https://linkedin.com/in/heidiwilliamsfoy) | Brooklyn, NY
+[Email](mailto:heidi.williamsfoy@gmail.com)  |  [GitHub](https://github.com/HeidiW)  |  [LinkedIn](https://linkedin.com/in/heidiwilliamsfoy) | [Brooklyn, NY](https://www.google.com/maps/place/Greenpoint,+Brooklyn,+NY/@40.729336,-73.9633256,14z/data=!3m1!4b1!4m5!3m4!1s0x89c25948e1da58b3:0x720c87b2e954456e!8m2!3d40.7304701!4d-73.9515032)
   
 ### SUMMARY
 
