@@ -1,14 +1,14 @@
-# HEIDI WILLIAMS-FOY
-## SALES ENGINEER | TECHNICAL ACCOUNT STRATEGIST
-### P: 718.753.6142  |  E: heidi.williamsfoy@gmail.com  |  GH: github.com/HeidiW  |  LI: linkedin.com/in/heidiwilliamsfoy  |  A: Brooklyn, NY
+ # Heidi Williams-Foy
+## TECHNICAL ACCOUNT STRATEGIST | SALES ENGINEER
+[Email](mailto:heidi.williamsfoy@gmail.com)  |  [GitHub](https://github.com/HeidiW)  |  [LinkedIn](https://linkedin.com/in/heidiwilliamsfoy) | Brooklyn, NY
   
 ### SUMMARY
 
-Highly adaptable video, mobile app and technology solutions professional with success at the intersection of sales, technical product strategy, account management, and enterprise tech support. Unique 360-degree industry understanding stemming from recent experience as a sales engineer with former experience as a full stack web developer, video producer and audio engineer. Proven ability to identify client needs, anticipate and overcome sales objections, secure new business and grow existing accounts. Cross-functional collaborator with talent for mobilizing and aligning internal and remote teams, engaging senior level stakeholders, and educating clients to drive satisfaction and retention. Versatile professional with experience at startups (Applicaster, JW Player) as well as entertainment industry giants (Viacom, Sony Music). Capable technical translator with ability to shape complex technical concepts into actionable product roadmaps, easy-to-understand documentation, and useful training for world-class clients. Early adopter of new platforms and technologies. Passionate about ongoing study of web technologies, industry trends, and developer best practices.
+Highly adaptable video, mobile app and technology solutions professional with success at the intersection of sales, technical product strategy, account management, and enterprise tech support. Unique 360-degree industry understanding stemming from recent experience as a sales engineer with former experience as a full stack web developer, video producer and audio engineer. Capable technical translator with ability to shape complex technical concepts into actionable product roadmaps, easy-to-understand documentation, and useful training for world-class clients. Early adopter of new platforms and technologies. Passionate about ongoing study of web technologies, industry trends, and developer best practices.
 
 ### CORE COMPETENCIES
 
-Sales Support | Pre-Sales Support | Technical Sales | Enterprise Technical Support | Troubleshooting | Amazon Web Services | Certified Cloud Practitioner | AWS | Product Strategy | Technical Training | Solutions Architecting | Sales Engineering | Technical Documentation | Technical Client / Account Management | Sales Demos | Requirements Gathering | Solutions Design | Digital Content | Databases | Front End Coding | Mobile App Development | QA | Stakeholder Alignment | People Management | Vendor Management
+Amazon Web Services | Sales Support | Pre-Sales Support | Technical Sales | Enterprise Technical Support | Troubleshooting | Certified Cloud Practitioner | AWS | Product Strategy | Technical Training | Solutions Architecting | Sales Engineering | Technical Documentation | Technical Client / Account Management | Sales Demos | Requirements Gathering | Solutions Design | Digital Content | Databases | Front End Coding | Mobile App Development | QA | Stakeholder Alignment | People Management | Vendor Management
 
 ### EXPERIENCE & PROFESSIONAL HIGHLIGHTS 
 
